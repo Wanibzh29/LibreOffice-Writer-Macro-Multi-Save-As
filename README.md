@@ -1,5 +1,5 @@
 # LibreOffice-Macro-Multi-Save-As
-A collection of small macros to save the document in several different locations.
+A small macro to save the document in several different locations in LibreOffice Writer.
 
 ## I. Licences
 - 2003-Now An Drouizig
